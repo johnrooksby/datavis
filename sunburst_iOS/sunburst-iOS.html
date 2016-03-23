@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sequences sunburst</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+    <link rel="stylesheet" type="text/css" href="sequences.css"/>
+  </head>
+  <body>
+    <div id="main">
+    <center><h1> App Sequence Sunburst </h1></center><br>
+      <div id="sequence"></div>
+      <div id="chart">
+        <div id="explanation" style="visibility: hidden;">
+          <span id="percentage"></span><br/>
+          of sessions begin with these apps
+        </div>
+      </div>
+    </div>
+    <div id="sidebar">
+<!-- 
+      <input type="checkbox" id="togglelegend"> Legend<br/>
+ -->
+      <div id="legend"></div>
+    </div>
+    <script type="text/javascript" src="sequences-iOS.js"></script>
+    <script type="text/javascript">
+      // Hack to make this example display correctly in an iframe on bl.ocks.org
+      d3.select(self.frameElement).style("height", "700px");
+  </script> 
+  
+  <p>
+  This visualisation is based on about 4 months of data from my iPhone. More details about the logger <a href="http://blog.johnrooksby.org/post/65473249197/paper-at-de2013">here</a>. The visualisation is based upon <a href="http://bl.ocks.org/kerryrodden/7090426">this code</a>.
+  </p>
+  
+  </body>
+</html>
