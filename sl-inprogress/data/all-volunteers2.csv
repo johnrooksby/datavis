@@ -1,0 +1,22 @@
+Gender,Computer,Smartphone,Tablet,Participated,Number of devices
+Male,Windows,Android,Android,Yes,Three
+Female,Windows,iPhone,Android,Yes,Three
+Male,Windows,Android,iPad,Yes,Three
+Female,Windows,Android,No,Yes,Two
+Male,Windows,Android,Android,Yes,Three
+Female,Mac,Android,No,Yes,Two
+Male,Mac,Android,iPad,Yes,Three
+Male,Mac,iPhone,No,Yes,Two
+Female,Windows,Android,No,Yes,Two
+Female,Windows,Android,Android,Yes,Three
+Female,Windows,iPhone,iPad,Yes,Three
+Female,Mac,iPhone,iPad,Yes,Three
+Male,Windows,Android,Android,Yes,Three
+Male,Windows,Android,No,Yes,Two
+Female,Mac,Android,iPad,Yes,Three
+Male,Windows,Android,No,Yes,Two
+Female,Mac,Android,No,Yes,Two
+Male,Mac,Android,No,Yes,Two
+Female,Windows,No,iPad,Yes,Two
+Female,Mac,Android,No,Yes,Two
+Male,Windows,Android,No,Yes,Two
