@@ -1,31 +1,31 @@
-Country,Club,Year 1,Results,Year 2
-England,Manchester City,Intervention,12 month measures (steps | sedentary time | weight),Finished
-England,Arsenal FC,Intervention,12 month measures (steps | sedentary time | weight),Finished
-England,Everton FC,Intervention,12 month measures (steps | sedentary time | weight),Finished
-England,Newcastle United,Intervention,12 month measures (steps | sedentary time | weight),Finished
-England,Stoke City,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Netherlands,ADO Den Haag,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Netherlands,FC Groningen,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Netherlands,PSV,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Netherlands,Vitesse,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Portugal,Futebol Clube do Porto,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Portugal,Sport Lisboa e Benfica,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Portugal,Sporting Clube de Portugal,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Norway,Rosenborg Ballklub,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Norway,Strøemsgodset IF,Intervention,12 month measures (steps | sedentary time | weight),Finished
-Norway,Vålerenga Fotball,Intervention,12 month measures (steps | sedentary time | weight),Finished
-England,Manchester City,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-England,Arsenal FC,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-England,Everton FC,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-England,Newcastle United,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-England,Stoke City,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Netherlands,ADO Den Haag,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison) 
-Netherlands,FC Groningen,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Netherlands,PSV,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Netherlands,Vitesse,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Portugal,Futebol Clube do Porto,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Portugal,Sport Lisboa e Benfica,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Portugal,Sporting Clube de Portugal,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Norway,Rosenborg Ballklub,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Norway,Strøemsgodset IF,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
-Norway,Vålerenga Fotball,Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Country,Club,Baseline,Year 1,Results,Year 2
+England,Manchester City,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+England,Arsenal FC,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+England,Everton FC,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+England,Newcastle United,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+England,Stoke City,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Netherlands,ADO Den Haag,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Netherlands,FC Groningen,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Netherlands,PSV,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Netherlands,Vitesse,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Portugal,Futebol Clube do Porto,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Portugal,Sport Lisboa e Benfica,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Portugal,Sporting Clube de Portugal,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Norway,Rosenborg Ballklub,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Norway,Strøemsgodset IF,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+Norway,Vålerenga Fotball,Baseline measures (steps | sedentary time | weight), Intervention,12 month measures (steps | sedentary time | weight),Finished
+England,Manchester City,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+England,Arsenal FC,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+England,Everton FC,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+England,Newcastle United,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+England,Stoke City,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Netherlands,ADO Den Haag,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Netherlands,FC Groningen,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Netherlands,PSV,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Netherlands,Vitesse,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Portugal,Futebol Clube do Porto,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Portugal,Sport Lisboa e Benfica,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Portugal,Sporting Clube de Portugal,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Norway,Rosenborg Ballklub,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Norway,Strøemsgodset IF,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
+Norway,Vålerenga Fotball,Baseline measures (steps | sedentary time | weight), Waitlist,12 month measures (steps | sedentary time | weight),Intervention (Comparison)
